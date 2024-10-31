@@ -1,4 +1,7 @@
 # Project1 - Zurich:50
-An explanation of how you scraped the data
+
+##Scraping the Data
+Used Google Colab to scrape the data. An explanation of how you scraped the data
+
 The most interesting and surprising fact you found after analyzing the the data
 An actionable recommendation for developers based on your analysis
