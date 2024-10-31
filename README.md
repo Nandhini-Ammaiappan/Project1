@@ -16,3 +16,16 @@
 
 ## Code
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/your_username/your_repository/blob/main/your_notebook.ipynb)
+
+## Excel formula used:
+  * Q1 - Who are the top 5 users in Zurich with the highest number of followers?
+      Sort the table based on followers(descending) and pick the first 5 login IDs
+  * Q2 - Who are the 5 earliest registered GitHub users in Zurich?
+      Sort the table based on the created at(asending) and pick the first 5 login IDs
+  * Q4 - Which company do the majority of these developers work at?
+      Create a pivot table based on company (as rows) and login count (as values) and sort descending based on login count using users.csv
+  * Q5 - Which programming language is most popular among these users?
+      Create a pivot table based on language (as rows) and login count (as values) and sort descending based on login count using repositories.csv
+  * Q6 - Which programming language is the second most popular among users who joined after 2020?
+  * ,Q8,Q9,Q10,Q14,Q16
+
