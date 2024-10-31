@@ -41,13 +41,12 @@
       $\textcolor{red}{Use\ formula\}$ $\textcolor{blue}{correl\}$ $\textcolor{red}{and\ array1\ as\ column\}$ $\textcolor{blue}{followers\}$ $\textcolor{red}{and\ array2\ as\ column\}$ $\textcolor{blue}{public-repos\}$ $\textcolor{red}{using\}$ $\textcolor{blue}{users.csv.\}$
       
   * *Q10. Does creating more repos help users get more followers?*  
-      $\textcolor{red}{Use formula *slope* and known_ys as column *followers* and known_xs as column *public_repos* using\} $\textcolor{blue}{users.csv.\}$
+      $\textcolor{red}{Use\ formula\}$ $\textcolor{blue}{slope\}$ $\textcolor{red}{and\ known-ys\ as\ column\}$ $\textcolor{blue}{followers\}$ $\textcolor{red}{and\ known-xs\ as column\}$ $\textcolor{blue}{public-repos\}$ $\textcolor{red}{using\}$ $\textcolor{blue}{users.csv.\}$
        
   * *Q14. Who created the most repositories on weekends (UTC)? List the top 5 users' login*  
-      $\textcolor{red}{Create a new column weekday and populate it using the formula -> *text(mid(created_at,1,10),"ddd")*. Then create a pivot table with filter on weekday(selecting only sun and sat) and login as rows and count\ of any other column as values using **repositories.csv.\}$
+      $\textcolor{red}{Create\ a\ new\ column\ weekday\ and\ populate\ it\ using\ the\ formula\}$ $\textcolor{red}{using\}$ $\textcolor{blue}{text(mid(created-at,1,10),"ddd").\}$ $\textcolor{red}{Then\ create\ a\ pivot\ table\ with\ filter\ on\ weekday(selecting\ only\ sun\ and\ sat)\ and\ login\ as\ rows\ and\ count\ of\ any\ other\ column\ as\ values\ using\ repositories.csv.\}$
       
   * *Q16. Let's assume that the last word in a user's name is their surname (ignore missing names, trim and split by whitespace.) What's the most common surname?*
-      $\textcolor{red}{Copy Name column into a new worksheet and do "text to column" operation on it. It will split to mulitple columns and identify the last name using formula (using IF to check which is the last name based on data available). Create a pivot table on last name and get the most common names using the maximum count.\}$
-      
-      
-
+      $\textcolor{red}{Copy\ Name\ column\ into\ a\ new\ worksheet\ and\ do\ "text\ to\ column"\ operation\ on\ it.\ It\ will\ split\ to\ mulitple\ columns\ and\ identify\ the\ last\}$
+    $\textcolor{red}{name\ using\ formula\ (using\ IF\ to\ check\ which\ is\ the\ last\ name\ based\ on\ data\ available).\ Create\ a\ pivot\ table\ on\ last\ name\ and\ get\ the\}$
+    $\textcolor{red}{ most\ common\ names\ using\ the\ maximum\ count.\}$ $\textcolor{red}{Use\}$ $\textcolor{blue}{users.csv.\}$
