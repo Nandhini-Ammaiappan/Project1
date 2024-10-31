@@ -1343,7 +1343,7 @@ SimonHoiberg,SimonHoiberg/use-scroll-display,2020-02-28T14:47:24Z,2,2,TypeScript
 SimonHoiberg,SimonHoiberg/create-react-web-component,2019-08-03T20:43:16Z,43,43,TypeScript,true,true,MIT License
 daviddao,daviddao/daviddao.github.io,2014-03-31T02:32:19Z,0,0,HTML,true,true,
 daviddao,daviddao/daviddao,2020-10-19T13:44:01Z,0,0,,true,true,
-daviddao,daviddao/awful-ai,2018-03-27T15:30:34Z,6969,6969,,true,true,
+daviddao,daviddao/awful-ai,2018-03-27T15:30:34Z,6970,6970,,true,true,
 daviddao,daviddao/code-against-climate-change,2018-12-29T23:37:54Z,199,199,,true,true,
 daviddao,daviddao/awesome-data-valuation,2022-01-16T12:02:56Z,109,109,,true,true,MIT License
 daviddao,daviddao/ForestCarbonPotentialProject,2023-11-13T18:39:55Z,0,0,,true,true,
@@ -2020,11 +2020,11 @@ vegasbrianc,vegasbrianc/cadvisor,2015-07-22T12:03:36Z,0,0,Go,true,false,Other
 vegasbrianc,vegasbrianc/grafana,2015-05-08T08:37:25Z,0,0,JavaScript,true,true,Other
 vegasbrianc,vegasbrianc/Buildenv,2015-01-20T08:07:44Z,0,0,,true,true,GNU General Public License v2.0
 vegasbrianc,vegasbrianc/nginx-proxy,2014-09-24T22:00:06Z,0,0,,true,true,
+betatim,betatim/array-api-strict,2024-08-30T14:23:52Z,0,0,Python,true,false,Other
 betatim,betatim/array-api-compat,2024-10-30T13:57:15Z,0,0,,true,true,MIT License
 betatim,betatim/cuml,2022-10-12T15:19:34Z,0,0,,true,true,Apache License 2.0
 betatim,betatim/scikit-image,2024-08-31T07:57:00Z,0,0,,true,true,Other
 betatim,betatim/scikit-image-backend-phony,2024-08-31T07:43:30Z,0,0,Python,true,true,"BSD 3-Clause ""New"" or ""Revised"" License"
-betatim,betatim/array-api-strict,2024-08-30T14:23:52Z,0,0,Python,true,false,Other
 betatim,betatim/scikit-learn,2022-09-02T07:33:15Z,1,1,Python,true,true,"BSD 3-Clause ""New"" or ""Revised"" License"
 betatim,betatim/array-api-tests,2024-09-27T13:08:46Z,0,0,Python,true,false,MIT License
 betatim,betatim/vscode-binder,2019-03-09T11:08:48Z,111,111,Python,false,false,"BSD 3-Clause ""New"" or ""Revised"" License"
@@ -3263,7 +3263,7 @@ ddvk,ddvk/rmfakecloud,2020-03-29T21:14:34Z,764,764,Go,true,true,GNU Affero Gener
 ddvk,ddvk/remarkable2-framebuffer,2020-10-23T20:04:38Z,281,281,C,true,true,MIT License
 ddvk,ddvk/rmfakecloud-proxy,2021-02-12T16:13:24Z,8,8,Shell,true,true,MIT License
 ddvk,ddvk/remarkable2-recovery,2020-10-21T18:56:41Z,239,239,,true,true,GNU General Public License v2.0
-ddvk,ddvk/rmapi,2019-03-27T19:29:05Z,48,48,Go,true,true,GNU Affero General Public License v3.0
+ddvk,ddvk/rmapi,2019-03-27T19:29:05Z,49,49,Go,true,true,GNU Affero General Public License v3.0
 ddvk,ddvk/remarkable-uuuflash,2020-04-02T20:44:15Z,69,69,Shell,false,true,
 ddvk,ddvk/remarkable-update,2021-03-07T12:18:21Z,171,171,Python,true,true,MIT License
 ddvk,ddvk/remarkable-hacks,2019-03-15T14:35:15Z,1664,1664,Shell,true,true,MIT License
@@ -3762,7 +3762,7 @@ RalucaNicola,RalucaNicola/code-snippets-arcgis-api-js,2018-12-02T09:08:18Z,16,16
 RalucaNicola,RalucaNicola/intro-3D-geoviz,2020-05-28T08:33:23Z,0,0,JavaScript,true,true,
 RalucaNicola,RalucaNicola/css-3d-maps,2019-04-04T16:00:59Z,1,1,JavaScript,true,true,
 RalucaNicola,RalucaNicola/3D-inspiration,2018-01-05T13:52:57Z,8,8,JavaScript,true,true,
-viatsko,viatsko/awesome-vscode,2016-02-07T23:02:45Z,25024,25024,JavaScript,true,true,Creative Commons Zero v1.0 Universal
+viatsko,viatsko/awesome-vscode,2016-02-07T23:02:45Z,25026,25026,JavaScript,true,true,Creative Commons Zero v1.0 Universal
 viatsko,viatsko/gatsby-plugin-yandex-metrika,2017-08-20T14:28:57Z,15,15,JavaScript,true,true,MIT License
 viatsko,viatsko/next-apollo-auth,2021-12-30T15:46:10Z,1,1,,true,true,
 viatsko,viatsko/dotfiles,2021-04-26T22:00:43Z,2,2,Vim script,true,true,MIT License
@@ -4224,9 +4224,9 @@ jfree,jfree/AwesomeJavaFX,2016-11-04T05:25:50Z,3,3,,true,true,MIT License
 jfree,jfree/jidefx-oss,2020-03-04T18:33:20Z,0,0,,true,true,Other
 jfree,jfree/jsfreechart,2014-07-28T12:32:53Z,8,8,JavaScript,true,true,GNU General Public License v3.0
 jfree,jfree/fxgraphics2d-perf,2014-10-07T19:02:01Z,1,1,Java,true,true,
+0xB10C,0xB10C/nix,2023-01-19T16:24:30Z,0,0,Nix,true,true,MIT License
 0xB10C,0xB10C/peer-observer,2022-04-08T13:25:49Z,8,8,C,false,true,MIT License
 0xB10C,0xB10C/bitcoin,2019-05-04T13:11:05Z,1,1,C++,true,false,MIT License
-0xB10C,0xB10C/nix,2023-01-19T16:24:30Z,0,0,Nix,true,true,MIT License
 0xB10C,0xB10C/fork-observer,2021-08-06T08:43:39Z,7,7,Rust,true,true,MIT License
 0xB10C,0xB10C/nix-ci-bitcoin-core,2024-10-19T09:49:37Z,1,1,Nix,true,true,MIT License
 0xB10C,0xB10C/nixpkgs,2022-11-07T10:09:42Z,0,0,Nix,true,false,MIT License
@@ -5482,7 +5482,7 @@ cblichmann,cblichmann/g.raphael,2010-12-17T11:08:19Z,2,2,JavaScript,true,true,
 thomaswue,thomaswue/1brc-steps,2024-01-04T00:49:06Z,40,40,Java,true,true,Apache License 2.0
 thomaswue,thomaswue/quarkus-reactive-beer,2023-07-07T20:11:57Z,0,0,HTML,true,true,
 thomaswue,thomaswue/urlchecker-examples,2021-03-11T15:44:23Z,0,0,Java,true,true,
-ruflin,ruflin/Elastica,2010-10-19T17:04:21Z,2257,2257,PHP,false,false,MIT License
+ruflin,ruflin/Elastica,2010-10-19T17:04:21Z,2258,2258,PHP,false,false,MIT License
 ruflin,ruflin/Elastica.io,2012-07-30T06:08:23Z,15,15,HTML,true,true,
 ruflin,ruflin/elastic-package,2020-07-31T08:44:50Z,0,0,Go,true,true,Other
 ruflin,ruflin/integrations,2019-08-26T08:35:05Z,0,0,Go,true,true,Other
@@ -5583,7 +5583,7 @@ ruflin,ruflin/OBP-API,2013-06-26T08:39:53Z,0,0,Scala,true,true,
 ruflin,ruflin/lungo-angular-bridge,2013-05-30T10:18:54Z,0,0,JavaScript,true,true,GNU General Public License v3.0
 ruflin,ruflin/plastic,2013-05-13T15:47:44Z,0,0,Ruby,true,false,MIT License
 bndr,bndr/gojenkins,2014-09-27T18:03:32Z,867,867,Go,true,true,Apache License 2.0
-bndr,bndr/pipreqs,2015-04-22T16:38:14Z,6633,6633,Python,true,true,Apache License 2.0
+bndr,bndr/pipreqs,2015-04-22T16:38:14Z,6634,6634,Python,true,true,Apache License 2.0
 bndr,bndr/pycycle,2017-01-28T17:22:00Z,335,335,Python,true,true,MIT License
 bndr,bndr/snscrape,2021-08-24T16:18:11Z,0,0,,true,true,GNU General Public License v3.0
 bndr,bndr/gotabulate,2014-08-21T07:44:28Z,333,333,Go,true,true,Apache License 2.0
@@ -5744,7 +5744,7 @@ B1ueber2y,B1ueber2y/cfnet,2017-10-18T12:37:26Z,0,0,Matlab,true,true,MIT License
 B1ueber2y,B1ueber2y/libhand,2018-08-23T19:36:34Z,0,0,C++,true,true,Other
 Zhaozixiang1228,Zhaozixiang1228/MMIF-DDFM,2023-07-18T05:20:39Z,205,205,Python,true,true,
 Zhaozixiang1228,Zhaozixiang1228/IF-FILM,2024-05-15T15:08:56Z,39,39,Python,true,true,
-Zhaozixiang1228,Zhaozixiang1228/MMIF-EMMA,2024-03-19T21:57:31Z,69,69,Python,true,true,
+Zhaozixiang1228,Zhaozixiang1228/MMIF-EMMA,2024-03-19T21:57:31Z,70,70,Python,true,true,
 Zhaozixiang1228,Zhaozixiang1228/MMIF-CDDFuse,2023-03-19T21:54:10Z,407,407,Python,true,true,
 Zhaozixiang1228,Zhaozixiang1228/GDSR-SSDNet,2023-07-18T05:21:53Z,10,10,,true,true,
 Zhaozixiang1228,Zhaozixiang1228/GDSR-DCTNet,2022-03-03T18:10:46Z,85,85,Python,true,true,
@@ -11465,7 +11465,7 @@ maxvfischer,maxvfischer/sonos-streaming,2023-04-02T17:04:37Z,92,92,Shell,true,fa
 maxvfischer,maxvfischer/retvec,2023-12-05T08:31:46Z,0,0,,true,false,Apache License 2.0
 maxvfischer,maxvfischer/askai,2022-12-15T05:34:42Z,92,92,Python,true,true,MIT License
 maxvfischer,maxvfischer/CoSENSE,2020-04-03T05:47:39Z,0,0,JavaScript,true,true,MIT License
-maxvfischer,maxvfischer/DIY-CNC-machine,2021-06-12T04:37:38Z,1433,1433,,true,true,Other
+maxvfischer,maxvfischer/DIY-CNC-machine,2021-06-12T04:37:38Z,1434,1434,,true,true,Other
 maxvfischer,maxvfischer/DIY-ai-art,2020-11-21T11:58:33Z,563,563,Python,true,true,
 maxvfischer,maxvfischer/Sandsara-3D,2021-06-03T20:39:53Z,0,0,,true,true,Creative Commons Zero v1.0 Universal
 maxvfischer,maxvfischer/mirandacnc-community,2021-06-11T05:20:54Z,0,0,,true,false,
@@ -12031,7 +12031,7 @@ d909b,d909b/perfect_match,2018-10-31T15:24:37Z,123,123,Python,true,true,MIT Lice
 d909b,d909b/ncore,2021-12-29T12:01:40Z,3,3,Python,true,true,MIT License
 d909b,d909b/CovEWS,2020-08-18T14:16:21Z,17,17,Python,true,true,MIT License
 d909b,d909b/extd_med_benchmark,2021-03-29T01:18:03Z,0,0,,true,true,MIT License
-d909b,d909b/cxplain,2019-10-19T18:14:36Z,127,127,Python,true,true,MIT License
+d909b,d909b/cxplain,2019-10-19T18:14:36Z,128,128,Python,true,true,MIT License
 d909b,d909b/DSMT-Nets,2018-02-07T17:39:11Z,9,9,Python,true,true,MIT License
 d909b,d909b/eth_dream_pd_subchallenge1,2017-10-04T19:10:17Z,8,8,Python,true,true,Other
 d909b,d909b/heart_rhythm_attentive_rnn,2017-12-25T19:45:29Z,9,9,Python,true,true,Other
@@ -17028,6 +17028,7 @@ davidoort,davidoort/Firmware,2018-10-27T13:00:08Z,0,0,C++,true,false,"BSD 3-Clau
 davidoort,davidoort/ethz-fall2018-subs,2018-10-26T18:51:13Z,0,0,,true,true,
 davidoort,davidoort/duckiebot_data,2018-10-10T08:59:06Z,0,0,,true,true,
 davidoort,davidoort/WorkPackage5-B02,2017-12-06T13:16:56Z,0,0,Python,true,true,Apache License 2.0
+EliiseS,EliiseS/k3d,2024-10-31T10:45:36Z,0,0,,true,false,MIT License
 EliiseS,EliiseS/explore-iot-operations,2024-10-17T08:56:21Z,0,0,,true,false,MIT License
 EliiseS,EliiseS/EliiseS,2022-09-10T16:05:46Z,0,0,,true,true,
 EliiseS,EliiseS/alice-springs-hack,2023-08-28T12:30:17Z,0,0,,true,true,
