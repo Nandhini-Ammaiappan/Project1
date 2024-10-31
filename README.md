@@ -19,9 +19,10 @@
 
 ## Excel formula used
   * *Q1. Who are the top 5 users in Zurich with the highest number of followers?*  
-      Sort the table based on followers(descending) and pick the first 5 login IDs using **users.csv**.  
+      $\textcolor{red}{Sort\ the\ table\ based\ on\ followers(descending)\ and\ pick\ the\ first\ 5\ login\ IDs\ using\ users.csv.\}$
+      
   * *Q2. Who are the 5 earliest registered GitHub users in Zurich?*  
-      Sort the table based on the created at(asending) and pick the first 5 login IDs using **users.csv**.    
+      $\textcolor{red}{Sort\ the\ table\ based\ on\ the\ created\ at(asending)\ and\ pick\ the\ first\ 5\ login\ IDs\ using\ users.csv.\}$    
   * *Q4. Which company do the majority of these developers work at?*  
       Create a pivot table based on company (as rows), login count (as values) and sort descending based on login count using **users.csv**.  
   * *Q5. Which programming language is most popular among these users?*  
